@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d134a6f0-8d11-4c41-9898-d6b565bcee5e" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1ry7JXcudmmxhytCu9psLQYer2B" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Test.TestGetInfoPage in github.com/WelfareSystem/web (2)">
+    <configuration name="TestGetInfoPage in github.com/WelfareSystem/web (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="WelfareSystem" />
+      <working_directory value="$PROJECT_DIR$/web" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/WelfareSystem/web" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetInfoPage\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetInfoPage in github.com/WelfareSystem/web (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="WelfareSystem" />
+      <working_directory value="$PROJECT_DIR$/web" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/WelfareSystem/web" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetInfoPage\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestGetInfoPage in github.com/WelfareSystem/web" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="WelfareSystem" />
+      <working_directory value="$PROJECT_DIR$/web" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/WelfareSystem/web" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestGetInfoPage\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWelfareDonateMarshal in github.com/WelfareSystem/model (2)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="WelfareSystem" />
+      <working_directory value="$PROJECT_DIR$/model" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/WelfareSystem/model" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestWelfareDonateMarshal\E$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestWelfareDonateUnmarshal in github.com/WelfareSystem/model" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="WelfareSystem" />
+      <working_directory value="$PROJECT_DIR$/model" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="github.com/WelfareSystem/model" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <pattern value="^\QTestWelfareDonateUnmarshal\E$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Test.TestGetInfoPage in github.com/WelfareSystem/web (2)" />
+        <item itemvalue="Go Test.TestGetInfoPage in github.com/WelfareSystem/web (1)" />
+        <item itemvalue="Go Test.TestGetInfoPage in github.com/WelfareSystem/web" />
+        <item itemvalue="Go Test.TestWelfareDonateUnmarshal in github.com/WelfareSystem/model" />
+        <item itemvalue="Go Test.TestWelfareDonateMarshal in github.com/WelfareSystem/model (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="809" height="646" key="DebuggerActiveHint" timestamp="1620474956906">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="809" height="646" key="DebuggerActiveHint/0.0.1792.1120@0.0.1792.1120" timestamp="1620474956906" />
+    <state width="1750" height="386" key="GridCell.Tab.0.bottom" timestamp="1620474985766">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1620474985766" />
+    <state width="1750" height="386" key="GridCell.Tab.0.center" timestamp="1620474985764">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1620474985764" />
+    <state width="1750" height="386" key="GridCell.Tab.0.left" timestamp="1620474985763">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1620474985763" />
+    <state width="1750" height="386" key="GridCell.Tab.0.right" timestamp="1620474985766">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1620474985766" />
+    <state width="1750" height="386" key="GridCell.Tab.1.bottom" timestamp="1620474985769">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1620474985769" />
+    <state width="1750" height="386" key="GridCell.Tab.1.center" timestamp="1620474985768">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.center/0.0.1792.1120@0.0.1792.1120" timestamp="1620474985768" />
+    <state width="1750" height="386" key="GridCell.Tab.1.left" timestamp="1620474985767">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.left/0.0.1792.1120@0.0.1792.1120" timestamp="1620474985767" />
+    <state width="1750" height="386" key="GridCell.Tab.1.right" timestamp="1620474985768">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="1750" height="386" key="GridCell.Tab.1.right/0.0.1792.1120@0.0.1792.1120" timestamp="1620474985768" />
+    <state width="896" height="560" key="XDebugger.FullValuePopup" timestamp="1620182241588">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state width="896" height="560" key="XDebugger.FullValuePopup/0.0.1792.1120@0.0.1792.1120" timestamp="1620182241588" />
+    <state x="598" y="270" width="765" height="608" key="find.popup" timestamp="1620479303240">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="598" y="270" width="765" height="608" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1620479303240" />
+    <state x="626" y="473" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1620116150767">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="626" y="473" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1620116150767" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DlvLineBreakpoint">
+          <url>file://$PROJECT_DIR$/web/web.go</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
